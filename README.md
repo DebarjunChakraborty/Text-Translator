@@ -29,6 +29,5 @@ git clone https://github.com/DebarjunChakraborty/Text-Translator.git
 
 6. The translated text will appear in the target language textarea.
 
-## Demo
-
-https://debarjunchakraborty.github.io/Text-Translator/
+## Project Link
+[Text-Translator](https://debarjunchakraborty.github.io/QR-Generator/)
