@@ -30,4 +30,4 @@ git clone https://github.com/DebarjunChakraborty/Text-Translator.git
 6. The translated text will appear in the target language textarea.
 
 ## Project Link
-[Text-Translator](https://debarjunchakraborty.github.io/QR-Generator/)
+[Text-Translator](https://debarjunchakraborty.github.io/Text-Translator/)
