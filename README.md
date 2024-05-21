@@ -17,7 +17,7 @@ This is a simple language translator web application built using HTML, CSS, and 
 ## Installation and Usage
 
 1. Clone the repository:
-git clone https://github.com/your-username/language-translator-app.git
+git clone https://github.com/DebarjunChakraborty/Text-Translator.git
 
 2. Open the `index.html` file in your web browser.
 
